@@ -1,0 +1,115 @@
+{
+    "cSpell.words": [
+        "dotfiles",
+        "Marximus",
+        "Maximus"
+    ],
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.associations": {
+        "LICENSE": "plaintext",
+        "setup.cfg": "ini",
+        ".coveragerc": "ini",
+    },
+    "editor.insertSpaces": true,
+    "editor.showFoldingControls": "always",
+    "editor.tabSize": 4,
+    "python.defaultInterpreterPath": "/opt/conda/miniforge/bin/python",
+    "python.disableInstallationCheck": true,
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "shell-syntax.defaultShell": "sh",
+    "better-comments.highlightPlainText": true,
+    "better-comments.tags": [
+        {
+            "tag": "NOTE:",
+            "color": "#98C379",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "WARNING:",
+            "color": "#FF2D00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": true,
+            "italic": false
+        },
+        {
+            "tag": "HACK:",
+            "color": "#FF2D00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+          "tag": "QUESTION:",
+          "color": "#3498DB",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "tag": "TODO:",
+          "color": "#FF8C00",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "tag": "shellcheck",
+          "color": "#666666",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        }
+    ],
+    "coverage-gutters.showLineCoverage": true,
+    "coverage-gutters.showRulerCoverage": true,
+    "koverage.coverageFileNames": [
+        "lcov.info",
+        "cov.xml",
+        "coverage.xml",
+        "jacoco.xml"
+    ],
+    "koverage.sufficientCoverageThreshold": 100,
+    "koverage.coverageFilePaths": [
+        ".",
+        "coverage"
+    ],
+    "livePreview.defaultPreviewPath": "/htmlcov/index.html",
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#ffd6cd",
+        "activityBar.activeBorder": "#009f1d",
+        "activityBar.background": "#ffd6cd",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#009f1d",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "editorGroup.border": "#ffd6cd",
+        "panel.border": "#ffd6cd",
+        "sash.hoverBorder": "#ffd6cd",
+        "sideBar.border": "#ffd6cd",
+        "tab.activeBorder": "#ffd6cd",
+        "titleBar.activeBackground": "#feac9b",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.border": "#feac9b",
+        "titleBar.inactiveBackground": "#feac9b99",
+        "titleBar.inactiveForeground": "#15202b99",
+        "commandCenter.border": "#15202b99"
+    },
+    "peacock.color": "#feac9b"
+}
